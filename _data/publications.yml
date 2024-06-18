@@ -75,3 +75,21 @@ main:
     pdf: https://aclanthology.org/2021.naacl-main.178.pdf
     code: https://github.com/lingjzhu/reddit_network
     page: https://aclanthology.org/2021.naacl-main.178
+
+  - title: >-
+          Probing the phonetic and phonological knowledge of tones in Mandarin TTS models
+    authors: <strong>Jian Zhu</strong>
+    conference: >-
+        Proceedings of Speech Prosody, 2020.
+    pdf: https://www.isca-archive.org/speechprosody_2020/zhu20_speechprosody.pdf
+    code: https://github.com/lingjzhu/probing-TTS-models
+    page: https://www.isca-archive.org/speechprosody_2020/zhu20_speechprosody.html
+
+
+  - title: >-
+          UM-IU@LING at SemEval-2019 Task 6: Identifying Offensive Tweets Using {BERT} and {SVM}s
+    authors: <strong>Jian Zhu</strong>, Zuoyu Tian, Sandra Kubler
+    conference: >-
+        Proceedings of the 13th International Workshop on Semantic Evaluation, 2019.
+    pdf: https://aclanthology.org/S19-2138.pdf
+    page: https://aclanthology.org/S19-2138
