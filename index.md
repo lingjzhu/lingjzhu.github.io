@@ -16,6 +16,7 @@ Before that, I was a post-doctoral research fellow at [Blablablab](https://blabl
   
 ## News
 
+- **[June. 2024]** One paper accepted to Interspeech 2024.
 - **[June. 2024]** I will give a talk about multilingual speech processing at SigMorPhon 2024.
 - **[April. 2024]** One paper accepted to NAACL 2024. 
 
