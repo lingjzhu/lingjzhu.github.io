@@ -23,7 +23,6 @@ main:
     page: https://aclanthology.org/2024.naacl-long.43/
 
 
-
   - title: >-
           StarCoder 2 and The Stack v2: The Next Generation
     authors: Anton Lozhkov, Raymond Li, Loubna Ben Allal, ..., <strong>Jian Zhu</strong>, ..., Arjun Guha, Leandro von Werra, Harm de Vries
@@ -49,7 +48,6 @@ main:
         Transactions of Machine Learning Research, 2023.
     pdf: https://openreview.net/pdf?id=KoFOg41haE
     page: https://openreview.net/forum?id=KoFOg41haE
-
 
 
   - title: >-
@@ -139,6 +137,7 @@ main:
     pdf: https://aclanthology.org/2021.naacl-main.178.pdf
     code: https://github.com/lingjzhu/reddit_network
     page: https://aclanthology.org/2021.naacl-main.178
+
 
   - title: >-
           Synchronising Speech Segments with Musical Beats in Mandarin and English Singing
