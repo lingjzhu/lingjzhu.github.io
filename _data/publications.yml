@@ -5,7 +5,8 @@ main:
     authors: Suyuan Liu, Molly Babel, <strong>Jian Zhu</strong>
     conference: >-
                Interspeech, 2024.
-    
+
+
   - title: >-
           Eagle and finch: Rwkv with matrix-valued states and dynamic recurrence
     authors: Bo Peng, Daniel Goldstein, Quentin Anthony, ..., <strong>Jian Zhu</strong>, Rui-Jie Zhu
@@ -60,7 +61,7 @@ main:
     page: https://proceedings.mlr.press/v219/zhu23a
 
 
- - title: >-
+  - title: >-
           Multidimensional signals and analytic flexibility: Estimating degrees of freedom in human speech analyses
     authors: Stefano Coretta, Joseph Casillas, ,..., <strong>Jian Zhu</strong>, ..., Timo Roettger
     conference: >-
@@ -192,8 +193,7 @@ main:
                ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2019
     pdf: https://arxiv.org/pdf/1903.00888.pdf
     code: https://github.com/DeePBluE666/Source-code1
-
-    
+ 
   - title: >-
           Effect of several acoustic cues on perceiving Mandarin retroflex affricates and fricatives in continuous speech
     authors: <strong>Jian Zhu</strong>,Yaping Chen
