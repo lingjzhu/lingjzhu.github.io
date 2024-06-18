@@ -10,7 +10,7 @@ main:
   - title: >-
           Eagle and finch: Rwkv with matrix-valued states and dynamic recurrence
     authors: Bo Peng, Daniel Goldstein, Quentin Anthony, ..., <strong>Jian Zhu</strong>, Rui-Jie Zhu
-         arXiv, 2024.
+    conference: arXiv, 2024.
     pdf: https://arxiv.org/pdf/2404.05892
     page: https://arxiv.org/abs/2404.05892
 
@@ -28,7 +28,7 @@ main:
   - title: >-
           StarCoder 2 and The Stack v2: The Next Generation
     authors: Anton Lozhkov, Raymond Li, Loubna Ben Allal, ..., <strong>Jian Zhu</strong>, ..., Arjun Guha, Leandro von Werra, Harm de Vries
-         arXiv, 2024.
+    conference: arXiv, 2024.
     pdf: https://arxiv.org/pdf/2402.19173
     page: https://arxiv.org/abs/2402.19173
 
