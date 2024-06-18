@@ -22,4 +22,3 @@ Before that, I was a post-doctoral research fellow at [Blablablab](https://blabl
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
