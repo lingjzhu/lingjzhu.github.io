@@ -1,8 +1,7 @@
 main:
 
   - title: >-
-        A comparison of voice similarity through acoustics, human perception and
-deep neural network (DNN) speaker verification systems
+        A comparison of voice similarity through acoustics, human perception and deep neural network (DNN) speaker verification systems
     authors: Suyuan Liu, Molly Babel, <strong>Jian Zhu*</strong>
     conference: >-
         Proceedings of Interspeech 2024, 2024.
