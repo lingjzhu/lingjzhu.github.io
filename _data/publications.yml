@@ -2,7 +2,7 @@ main:
 
   - title: >-
         A comparison of voice similarity through acoustics, human perception and deep neural network (DNN) speaker verification systems
-    authors: Suyuan Liu, Molly Babel, <strong>Jian Zhu*</strong>
+    authors: Suyuan Liu, Molly Babel, <strong>Jian Zhu</strong>
     conference: >-
         Proceedings of Interspeech 2024, 2024.
     
@@ -10,7 +10,7 @@ main:
 
   - title: >-
           The taste of IPA: Towards open-vocabulary keyword spotting and forced alignment in any language
-    authors: <strong>Jian Zhu*</strong>, Changbing Yang, Farhan Samir, Jahurul Islam
+    authors: <strong>Jian Zhu</strong>, Changbing Yang, Farhan Samir, Jahurul Islam
     conference: >-
         Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers), 2024.
     pdf: https://aclanthology.org/2024.naacl-long.43.pdf
@@ -19,7 +19,7 @@ main:
 
   - title: >-
           Dialogue-Contextualized Re-ranking for Medical History-Taking
-    authors: <strong>Jian Zhu*</strong>, Ilya Valmianski, Anitha Kannan
+    authors: <strong>Jian Zhu</strong>, Ilya Valmianski, Anitha Kannan
     conference: >-
         Machine Learning for Health Care 2023, 2023.
     pdf: https://proceedings.mlr.press/v219/zhu23a/zhu23a.pdf
