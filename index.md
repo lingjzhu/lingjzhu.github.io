@@ -12,12 +12,13 @@ Before that, I was a post-doctoral research fellow at [Blablablab](https://blabl
 
 - **Speech and language processing:** multilingual ASR, phone recognition, multilingual speech synthesis, narrative understanding
 - **Computational social sciences:** text as data, entertainment computing, game studies, computational sociolinguistics
+
+  
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[June. 2024]** I will give a talk about multilingual speech processing at SigMorPhon 2024.
+- **[April. 2020]** One paper accepted to NAACL 2024. 
+
 
 {% include_relative _includes/publications.md %}
 
