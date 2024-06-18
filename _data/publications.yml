@@ -87,7 +87,7 @@ main:
 
 
   - title: >-
-          UM-IU@LING at SemEval-2019 Task 6: Identifying Offensive Tweets Using {BERT} and {SVM}s
+          UM-IU@LING at SemEval-2019 Task 6: Identifying Offensive Tweets Using BERT and SVMs
     authors: <strong>Jian Zhu</strong>, Zuoyu Tian, Sandra Kubler
     conference: >-
         Proceedings of the 13th International Workshop on Semantic Evaluation, 2019.
