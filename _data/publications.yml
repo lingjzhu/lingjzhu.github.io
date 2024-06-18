@@ -6,7 +6,6 @@ main:
     conference: >-
         Interspeech, 2024.
     
-
   - title: >-
           Eagle and finch: Rwkv with matrix-valued states and dynamic recurrence
     authors: Bo Peng, Daniel Goldstein, Quentin Anthony, ..., <strong>Jian Zhu</strong>, Rui-Jie Zhu
