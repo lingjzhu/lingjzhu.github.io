@@ -1,10 +1,10 @@
 main:
 
   - title: >-
-        A comparison of voice similarity through acoustics, human perception and deep neural network (DNN) speaker verification systems
+          A comparison of voice similarity through acoustics, human perception and deep neural network (DNN) speaker verification systems
     authors: Suyuan Liu, Molly Babel, <strong>Jian Zhu</strong>
     conference: >-
-        Interspeech, 2024.
+               Interspeech, 2024.
     
   - title: >-
           Eagle and finch: Rwkv with matrix-valued states and dynamic recurrence
