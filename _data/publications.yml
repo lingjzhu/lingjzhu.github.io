@@ -8,7 +8,7 @@ main:
 
 
   - title: >-
-          Eagle and finch: Rwkv with matrix-valued states and dynamic recurrence
+          Eagle and finch: RWKV with matrix-valued states and dynamic recurrence
     authors: Bo Peng, Daniel Goldstein, Quentin Anthony, ..., <strong>Jian Zhu</strong>, Rui-Jie Zhu
     conference: arXiv, 2024.
     pdf: https://arxiv.org/pdf/2404.05892
