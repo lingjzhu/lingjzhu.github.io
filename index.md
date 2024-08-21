@@ -14,7 +14,9 @@ Before that, I was a post-doctoral research fellow at [Blablablab](https://blabl
 - **Computational social sciences:** text as data, entertainment computing, game studies, computational sociolinguistics
 
 ## For students
-If you are a UBC undergraduate or MDS-CL student and interested in working with me, please fill in this [Google Form](https://forms.gle/Po961uFZoJmDBmta9). I will reach out to you if our research interests are closely aligned. 
+If you are a UBC undergraduate or MDS-CL student and interested in working with me, please fill in this [Google Form](https://forms.gle/z7bm9HSBFABRXu4L7). I will reach out to you if our research interests are closely aligned. 
+
+
   
 ## News
 
