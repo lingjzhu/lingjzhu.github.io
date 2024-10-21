@@ -19,7 +19,7 @@ If you are a UBC undergraduate or MDS-CL student and interested in working with 
 
   
 ## News
-
+- **[October. 2024]** One paper on Speech LLM accepted to Audio Imagination Workshop@NeurIPS.
 - **[July. 2024]** One paper accepted to COLM 2024.
 - **[June. 2024]** One paper accepted to Interspeech 2024.
 - **[June. 2024]** I will give a talk about multilingual speech processing at SIGMORPHON 2024.
