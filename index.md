@@ -16,7 +16,7 @@ Before joining UBC, I was a post-doctoral research fellow at [Blablablab](https:
 ## For students
 If you are a UBC undergraduate or MDS-CL student and interested in working with me, please fill in this [Google Form](https://forms.gle/z7bm9HSBFABRXu4L7). I will reach out to you if our research interests are closely aligned.
 
-For PhD/MA applicants, if you are interested in working with me on multilingual speech processing, sign language processing, NLP for computational social sciences, please apply to [UBC Linguistics Department](https://linguistics.ubc.ca/graduate/admissions/) and mention my name in your statement. Students with strong computational backgrounds are particularly welcome. 
+For PhD/MA applicants, if you are interested in working with me on multilingual speech processing, sign language processing, LLM for computational social sciences/meta-linguistic reasoning, please apply to [UBC Linguistics Department](https://linguistics.ubc.ca/graduate/admissions/) and mention my name in your statement. Students with strong computational backgrounds are particularly welcome. 
 
 
   
