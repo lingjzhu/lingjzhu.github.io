@@ -1,6 +1,20 @@
 main:
 
   - title: >-
+          	Who Reaps All the Superchats? A Large-Scale Analysis of Income Inequality in Virtual YouTuber Livestreaming
+    authors: Ryan Zhao, Brian Diep, Jiaxin Pei, Dongwook Yoon, David Jurgens <strong>Jian Zhu</strong>
+    conference: >-
+               CHI, 2025.
+
+
+  - title: >-
+          	Developing multilingual speech synthesis system for Ojibwe, Mi’kmaq, and Maliseet
+    authors: Shenran Wang, Changbing Yang, Michael Parkhill, Chad Quinn, Christopher Hammerly, <strong>Jian Zhu</strong>
+    conference: >-
+               NAACL, 2025.
+
+
+  - title: >-
           A comparison of voice similarity through acoustics, human perception and deep neural network (DNN) speaker verification systems
     authors: Suyuan Liu, Molly Babel, <strong>Jian Zhu</strong>
     conference: >-
