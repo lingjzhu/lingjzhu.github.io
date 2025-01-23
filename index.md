@@ -21,7 +21,7 @@ For PhD/MA applicants, if you are interested in working with me on multilingual 
 
   
 ## News
-- **[Jan. 2024]** Two papers accepted to ACM CHI and NAACL respectively.
+- **[Jan. 2025]** Two papers accepted to ACM CHI and NAACL respectively.
 - **[Oct. 2024]** One paper on Speech LLM accepted to Audio Imagination Workshop@NeurIPS.
 - **[Jul. 2024]** One paper accepted to COLM 2024.
 - **[Jun. 2024]** One paper accepted to Interspeech 2024.
