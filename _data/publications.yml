@@ -1,10 +1,17 @@
 main:
+  - title: >-
+            Efficiently Identifying Low-Quality Language Subsets in Multilingual Datasets: A Case Study on a Large-Scale Multilingual Audio Dataset 
+    authors: Farhan Samir, Emily P. Ahn, Shreya Prakash, Márton Sóskuthy, Vered Shwartz, <strong>Jian Zhu</strong>  
+    conference: >-  
+               Transactions of the Association for Computational Linguistics
+    pdf: https://arxiv.org/pdf/2410.04292
+    page: https://arxiv.org/abs/2410.04292
 
   - title: >-
             Who Reaps All the Superchats? A Large-Scale Analysis of Income Inequality in Virtual YouTuber Livestreaming  
     authors: Ryan Zhao, Brian Diep, Jiaxin Pei, Dongwook Yoon, David Jurgens, <strong>Jian Zhu</strong>  
     conference: >-  
-               CHI, 2025.
+               ACM CHI, 2025.
 
 
   - title: >-
