@@ -1,5 +1,13 @@
 main:
   - title: >-
+            Neurobiber: Fast and Interpretable Stylistic Feature Extraction
+    authors: Kenan Alkiek, Anna Wegmann, <strong>Jian Zhu</strong> , David Jurgens
+    conference: >-  
+               arXiv, 2025
+    pdf: https://arxiv.org/pdf/2502.18590
+    page: https://arxiv.org/abs/2502.18590
+  
+  - title: >-
             Efficiently Identifying Low-Quality Language Subsets in Multilingual Datasets: A Case Study on a Large-Scale Multilingual Audio Dataset 
     authors: Farhan Samir, Emily P. Ahn, Shreya Prakash, Márton Sóskuthy, Vered Shwartz, <strong>Jian Zhu</strong>  
     conference: >-  
