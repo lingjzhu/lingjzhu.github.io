@@ -1,7 +1,7 @@
 main:
   - title: >-
             ZIPA: A family of efficient models for multilingual phone recognition
-    authors: Jian Zhu, Farhan Samir, Eleanor Chodroff, David R Mortensen
+    authors: <strong>Jian Zhu</strong>, Farhan Samir, Eleanor Chodroff, David R Mortensen
     conference: >-  
                arXiv, 2025
 
