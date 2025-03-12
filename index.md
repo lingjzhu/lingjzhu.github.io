@@ -11,7 +11,7 @@ Before joining UBC, I was a post-doctoral research fellow at [Blablablab](https:
 ## Research Interests
 
 - **Speech and language processing:** multilingual ASR, phone recognition, multilingual TTS, narrative understanding
-- **Computational social sciences:** text as data, entertainment computing, game studies, computational sociolinguistics
+- **Computational social sciences:** social media, entertainment computing, computational sociolinguistics
 
 ## For students
 If you are a UBC undergraduate or MDS-CL student and interested in working with me, please fill in this [Google Form](https://forms.gle/z7bm9HSBFABRXu4L7). I will reach out to you if our research interests are closely aligned.
