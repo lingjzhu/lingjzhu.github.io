@@ -1,5 +1,11 @@
 main:
   - title: >-
+            CaseReportBench: An LLM Benchmark Dataset for Dense Information Extraction in Clinical Case Reports
+    authors: Xiao Yu Cindy Zhang, Carlos R. Ferreira, Francis Rossignol, Raymond T. Ng, Wyeth Wasserman, <strong>Jian Zhu</strong>.
+    conference: >-  
+               Conference on Health, Inference, and Learning, 2025
+  
+  - title: >-
             ZIPA: A family of efficient models for multilingual phone recognition
     authors: <strong>Jian Zhu</strong>, Farhan Samir, Eleanor Chodroff, David R Mortensen
     conference: >-  
