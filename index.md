@@ -21,6 +21,7 @@ For PhD/MA applicants, if you are interested in working with me on multilingual 
 
   
 ## News
+- **[Apr. 2025]** Our paper receives Best Theme Paper Runner-Up Award at NAACL 2025!
 - **[Feb. 2025]** One paper accepted to TACL.
 - **[Jan. 2025]** Two papers accepted to ACM CHI and NAACL respectively.
 - **[Oct. 2024]** One paper on Speech LLM accepted to Audio Imagination Workshop@NeurIPS.
