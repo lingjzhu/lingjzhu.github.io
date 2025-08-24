@@ -1,5 +1,11 @@
 main:
   - title: >-
+            LingGym: How Far Are LLMs from Thinking Like Field Linguists?
+    authors: Changbing Yang, Franklin Ma, Freda Shi, <strong>Jian Zhu</strong>.
+    conference: >-  
+               EMNLP, 2025
+               
+  - title: >-
             CaseReportBench: An LLM Benchmark Dataset for Dense Information Extraction in Clinical Case Reports
     authors: Xiao Yu Cindy Zhang, Carlos R. Ferreira, Francis Rossignol, Raymond T. Ng, Wyeth Wasserman, <strong>Jian Zhu</strong>.
     conference: >-  
@@ -10,6 +16,9 @@ main:
     authors: <strong>Jian Zhu</strong>, Farhan Samir, Eleanor Chodroff, David R Mortensen
     conference: >-  
                ACL, 2025
+    page: https://aclanthology.org/2025.acl-long.961/
+    pdf: https://aclanthology.org/2025.acl-long.961.pdf
+    code: https://github.com/lingjzhu/zipa
 
     
   - title: >-
