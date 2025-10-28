@@ -1,4 +1,15 @@
 main:
+
+  - title: >-
+            Understanding In-Context Learning Beyond Transformers: An Investigation of State Space and Hybrid Architectures
+    authors: Shenran Wang, Timothy Tin-Long Tse, <strong>Jian Zhu</strong>
+    conference: >-  
+               arXiv, 2025
+    page: https://arxiv.org/abs/2510.23006
+    pdf: https://arxiv.org/pdf/2510.23006
+    code: https://github.com/ShenranTomWang/ICL
+
+    
   - title: >-
             LingGym: How Far Are LLMs from Thinking Like Field Linguists?
     authors: Changbing Yang, Franklin Ma, Freda Shi, <strong>Jian Zhu</strong>.
