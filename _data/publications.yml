@@ -1,4 +1,14 @@
 main:
+  - title: >-
+            POWSM: A Phonetic Open Whisper-Style Speech Foundation Model
+    authors: Chin-Jou Li, Kalvin Chang, Shikhar Bharadwaj, Eunjung Yeo, Kwanghee Choi,  <strong>Jian Zhu</strong>, David Mortensen, Shinji Watanabe
+    conference: >-  
+               arXiv, 2025
+    page: https://arxiv.org/abs/2510.24992
+    pdf: https://arxiv.org/pdf/2510.24992
+    code: https://huggingface.co/espnet/powsm
+
+
 
   - title: >-
             Understanding In-Context Learning Beyond Transformers: An Investigation of State Space and Hybrid Architectures
