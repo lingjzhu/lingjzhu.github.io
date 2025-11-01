@@ -6,7 +6,7 @@ main:
     conference: >-  
                arXiv, 2025
     page: https://arxiv.org/abs/2510.23006
-    pdf: https://arxiv.org/pdf/2510.23006
+    pdf: https://aclanthology.org/2025.emnlp-main.69.pdf
     code: https://github.com/ShenranTomWang/ICL
 
     
@@ -15,6 +15,9 @@ main:
     authors: Changbing Yang, Franklin Ma, Freda Shi, <strong>Jian Zhu</strong>.
     conference: >-  
                EMNLP, 2025
+    page: https://aclanthology.org/2025.emnlp-main.69/
+    pdf: https://arxiv.org/pdf/2510.23006
+    code: https://github.com/changbingY/LingGym
                
   - title: >-
             CaseReportBench: An LLM Benchmark Dataset for Dense Information Extraction in Clinical Case Reports
