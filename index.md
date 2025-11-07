@@ -21,6 +21,7 @@ For PhD/MA applicants, if you are interested in working with me on multilingual 
 
   
 ## News
+- **[Nov. 2025]** LingGym won the Outstanding Paper Award at EMNLP 2025!
 - **[Aug. 2025]** One paper accepted to EMNLP 2025.
 - **[May. 2025]** One paper accepted to ACL 2025.
 - **[Apr. 2025]** Our paper receives Best Theme Paper Runner-Up Award at NAACL 2025!
