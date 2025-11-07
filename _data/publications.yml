@@ -28,6 +28,7 @@ main:
     page: https://aclanthology.org/2025.emnlp-main.69/
     pdf: https://arxiv.org/pdf/2510.23006
     code: https://github.com/changbingY/LingGym
+    notes: Outstanding Paper Award
                
   - title: >-
             CaseReportBench: An LLM Benchmark Dataset for Dense Information Extraction in Clinical Case Reports
