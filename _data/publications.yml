@@ -1,5 +1,5 @@
 main:
-    - title: >-
+  - title: >-
             PRiSM: Benchmarking Phone Realization in Speech Models
     authors: Shikhar Bharadwaj, Chin-Jou Li, Yoonjae Kim, Kwanghee Choi, Eunjung Yeo, Ryan Soh-Eun Shim, Hanyu Zhou, Brendon Boldt, Karen Rosero Jacome, Kalvin Chang, Darsh Agrawal, Keer Xu, Chao-Han Huck Yang, <strong>Jian Zhu</strong>, Shinji Watanabe, David R Mortensen
     conference: >-  
@@ -8,7 +8,7 @@ main:
     pdf: https://arxiv.org/pdf/2601.14046
     code: https://github.com/changelinglab/prism
   
-    - title: >-
+  - title: >-
             From Pixels to Personas: Tracking the Evolution of Anime Characters
     authors: Rongze Liu, Jiaxin Pei,  <strong>Jian Zhu</strong>
     conference: >-  
