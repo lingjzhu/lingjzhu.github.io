@@ -21,6 +21,7 @@ For PhD/MA applicants, if you are interested in working with me on multilingual 
 
   
 ## News
+- **[Apr. 2026]** Two main + one finding at ACL 2026. One paper at ICWSM 2026.
 - **[Nov. 2025]** LingGym won the Outstanding Paper Award at EMNLP 2025!
 - **[Aug. 2025]** One paper accepted to EMNLP 2025.
 - **[May. 2025]** One paper accepted to ACL 2025.
