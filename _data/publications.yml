@@ -12,7 +12,7 @@ main:
             From Pixels to Personas: Tracking the Evolution of Anime Characters
     authors: Rongze Liu, Jiaxin Pei,  <strong>Jian Zhu</strong>
     conference: >-  
-               ACL 2026
+               ICWSM, 2026
     page: https://arxiv.org/abs/2604.05507
     pdf: https://arxiv.org/pdf/2604.05507
     code: https://github.com/Arc-Celt/pixels2personas
