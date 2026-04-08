@@ -1,9 +1,27 @@
 main:
+    - title: >-
+            PRiSM: Benchmarking Phone Realization in Speech Models
+    authors: Shikhar Bharadwaj, Chin-Jou Li, Yoonjae Kim, Kwanghee Choi, Eunjung Yeo, Ryan Soh-Eun Shim, Hanyu Zhou, Brendon Boldt, Karen Rosero Jacome, Kalvin Chang, Darsh Agrawal, Keer Xu, Chao-Han Huck Yang, <strong>Jian Zhu</strong>, Shinji Watanabe, David R Mortensen
+    conference: >-  
+               ACL 2026
+    page: https://arxiv.org/abs/2601.14046
+    pdf: https://arxiv.org/pdf/2601.14046
+    code: https://github.com/changelinglab/prism
+  
+    - title: >-
+            From Pixels to Personas: Tracking the Evolution of Anime Characters
+    authors: Rongze Liu, Jiaxin Pei,  <strong>Jian Zhu</strong>
+    conference: >-  
+               ACL 2026
+    page: https://arxiv.org/abs/2604.05507
+    pdf: https://arxiv.org/pdf/2604.05507
+    code: https://github.com/Arc-Celt/pixels2personas
+    
   - title: >-
             POWSM: A Phonetic Open Whisper-Style Speech Foundation Model
     authors: Chin-Jou Li, Kalvin Chang, Shikhar Bharadwaj, Eunjung Yeo, Kwanghee Choi,  <strong>Jian Zhu</strong>, David Mortensen, Shinji Watanabe
     conference: >-  
-               arXiv, 2025
+               ACL, 2026
     page: https://arxiv.org/abs/2510.24992
     pdf: https://arxiv.org/pdf/2510.24992
     code: https://huggingface.co/espnet/powsm
@@ -14,7 +32,7 @@ main:
             Understanding In-Context Learning Beyond Transformers: An Investigation of State Space and Hybrid Architectures
     authors: Shenran Wang, Timothy Tin-Long Tse, <strong>Jian Zhu</strong>
     conference: >-  
-               arXiv, 2025
+               Findings of ACL, 2026
     page: https://arxiv.org/abs/2510.23006
     pdf: https://aclanthology.org/2025.emnlp-main.69.pdf
     code: https://github.com/ShenranTomWang/ICL
