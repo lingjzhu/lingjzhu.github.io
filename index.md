@@ -21,6 +21,7 @@ For PhD/MA applicants, if you are interested in working with me on multilingual 
 
   
 ## News
+- **[Aug. 2026]** Three main + one finding + one demo at EMNLP 2026.
 - **[Apr. 2026]** Two main + one finding at ACL 2026. One paper at ICWSM 2026.
 - **[Nov. 2025]** LingGym won the Outstanding Paper Award at EMNLP 2025!
 - **[Aug. 2025]** One paper accepted to EMNLP 2025.
@@ -28,11 +29,6 @@ For PhD/MA applicants, if you are interested in working with me on multilingual 
 - **[Apr. 2025]** Our paper receives Best Theme Paper Runner-Up Award at NAACL 2025!
 - **[Feb. 2025]** One paper accepted to TACL.
 - **[Jan. 2025]** Two papers accepted to ACM CHI and NAACL respectively.
-- **[Oct. 2024]** One paper on Speech LLM accepted to Audio Imagination Workshop@NeurIPS.
-- **[Jul. 2024]** One paper accepted to COLM 2024.
-- **[Jun. 2024]** One paper accepted to Interspeech 2024.
-- **[Jun. 2024]** I will give a talk about multilingual speech processing at SIGMORPHON 2024.
-- **[Apr. 2024]** One paper accepted to NAACL 2024. 
 
 
 {% include_relative _includes/publications.md %}
