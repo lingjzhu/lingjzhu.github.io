@@ -1,6 +1,7 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Representative Publications</h2>
 
 <div class="publications">
+<p style="margin-bottom: 1rem;">For a full list of publications, please see <a href="{{ site.google_scholar }}" target="_blank" rel="noopener"><i class="ai ai-google-scholar"></i> Google Scholar</a>.</p>
 <ol class="bibliography">
 
 {% for link in site.data.publications.main %}
