@@ -17,14 +17,6 @@ main:
     pdf: https://arxiv.org/pdf/2606.17688
     code: https://github.com/YisongMiao/CAPRI
  
-  - title: >-
-            OntologyBench: Can Dense Retrieval Satisfy Structured Biomedical Constraints?
-    authors: Xiao Yu Cindy Zhang, Wyeth Wasserman, <strong>Jian Zhu</strong>.
-    conference: >-  
-               EMNLP, 2026
-    page: https://arxiv.org/abs/2609.08174
-    pdf: https://arxiv.org/pdf/2609.08174
-    code: https://github.com/cindyzhangxy/OntologyBench 
 
   - title: >-
             AudioNoisePrints: Model-free audio watermarking using spatial correlation in flow matching TTS
@@ -34,14 +26,6 @@ main:
     page: https://arxiv.org/abs/2608.22186
     pdf: https://arxiv.org/pdf/2608.22186
 
-  - title: >-
-            PRiSM: Benchmarking Phone Realization in Speech Models
-    authors: Shikhar Bharadwaj, Chin-Jou Li, Yoonjae Kim, Kwanghee Choi, Eunjung Yeo, Ryan Soh-Eun Shim, Hanyu Zhou, Brendon Boldt, Karen Rosero Jacome, Kalvin Chang, Darsh Agrawal, Keer Xu, Chao-Han Huck Yang, <strong>Jian Zhu</strong>, Shinji Watanabe, David R Mortensen
-    conference: >-  
-               ACL 2026
-    page: https://arxiv.org/abs/2601.14046
-    pdf: https://arxiv.org/pdf/2601.14046
-    code: https://github.com/changelinglab/prism
   
   - title: >-
             From Pixels to Personas: Tracking the Evolution of Anime Characters
@@ -72,11 +56,6 @@ main:
     code: https://github.com/changbingY/LingGym
     notes: Outstanding Paper Award
                
-  - title: >-
-            CaseReportBench: An LLM Benchmark Dataset for Dense Information Extraction in Clinical Case Reports
-    authors: Xiao Yu Cindy Zhang, Carlos R. Ferreira, Francis Rossignol, Raymond T. Ng, Wyeth Wasserman, <strong>Jian Zhu</strong>.
-    conference: >-  
-               Conference on Health, Inference, and Learning, 2025
   
   - title: >-
             ZIPA: A family of efficient models for multilingual phone recognition
