@@ -14,6 +14,16 @@ In my current work, I am developing deployable and efficient systems that genera
 ### Before UBC
 Before joining UBC, I was a post-doctoral research fellow at [Blablablab](https://blablablab.si.umich.edu/), UMSI. I had obtained my Ph.D. in Linguistics and Scientific Computing from the [Department of Linguistics](https://lsa.umich.edu/linguistics) and the [Michigan Institute for Computational Discovery & Engineering](https://micde.umich.edu/) at University of Michigan-Ann Arbor. During my Ph.D. years, I was fortunately advised by [Pam Beddor](https://lsa.umich.edu/linguistics/people/faculty/tenure-track-faculty/beddor.html) and [David Jurgens](https://jurgens.people.si.umich.edu/). 
 
+## News
+- **[Aug. 2026]** Three main + one finding + one demo at EMNLP 2026.
+- **[Apr. 2026]** Two main + one finding at ACL 2026. One paper at ICWSM 2026.
+- **[Nov. 2025]** LingGym won the Outstanding Paper Award at EMNLP 2025!
+- **[Aug. 2025]** One paper accepted to EMNLP 2025.
+- **[May. 2025]** One paper accepted to ACL 2025.
+- **[Apr. 2025]** Our paper receives Best Theme Paper Runner-Up Award at NAACL 2025!
+- **[Feb. 2025]** One paper accepted to TACL.
+- **[Jan. 2025]** Two papers accepted to ACM CHI and NAACL respectively.
+
 
 ## Group
  - Cindy Zhang (Bioinformatics PhD - Co-supervised with [Prof. Wyeth Wasserman](https://www.med.ubc.ca/leadership/wyeth-wasserman/))
@@ -34,16 +44,6 @@ For current PhD students and researchers interested in working together, feel fr
 
 For PhD/MA applicants, if you are interested in working with me on multilingual speech processing, sign language processing, LLM agents for computational social sciences/meta-linguistic knowledge discovery, please consider applying to [UBC Linguistics Department](https://linguistics.ubc.ca/graduate/admissions/) and mention my name in your statement. Students with strong computational backgrounds are particularly welcome. I also occasionally co-supervise graduate students with faculty in the UBC NLP Group, depending on shared research interests and available opportunities.
 
-
-## News
-- **[Aug. 2026]** Three main + one finding + one demo at EMNLP 2026.
-- **[Apr. 2026]** Two main + one finding at ACL 2026. One paper at ICWSM 2026.
-- **[Nov. 2025]** LingGym won the Outstanding Paper Award at EMNLP 2025!
-- **[Aug. 2025]** One paper accepted to EMNLP 2025.
-- **[May. 2025]** One paper accepted to ACL 2025.
-- **[Apr. 2025]** Our paper receives Best Theme Paper Runner-Up Award at NAACL 2025!
-- **[Feb. 2025]** One paper accepted to TACL.
-- **[Jan. 2025]** Two papers accepted to ACM CHI and NAACL respectively.
 
 
 {% include_relative _includes/publications.md %}
