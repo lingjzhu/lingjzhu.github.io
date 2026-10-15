@@ -30,7 +30,7 @@ Before joining UBC, I was a post-doctoral research fellow at [Blablablab](https:
  - Changbing Yang (Linguistics PhD)
  - Yilei Tu (CS PhD - Co-supervised with [Prof. Hila Gonen](https://gonenhila.github.io/) and [Prof. Isabel Papadimitrious](https://www.isabelpapad.com/))
  - Sophia Chan (Linguistics PhD)
- - Yucai Zhang (MDS-CL graduate)
+ - Yucai Zhong (MDS-CL graduate)
  - Aryan Singh (Cognitive System Undergrad)
  - Sunghoon Bae (CS Undergrad)
  - Haopeng Geng (Visiting PhD from U of Tokyo EEIS)
