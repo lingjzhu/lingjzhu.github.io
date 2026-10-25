@@ -62,6 +62,7 @@ Here is a list of brilliant students I have worked with.
  - Nicole Lai-Lopez (MDS-CL -> ML PhD in EPFL)
  - Darwin Zhang (Linguistics Undergrad -> MDS-CL)
  - Yuhao Ma (CS Undergrad)
+ - Cole Piche (MDS-CL)
  - Daoming Liu (MDS-CL -> GeoComply)
  - Yuan Su (MDS-CL -> Applied Researcher at Wordly)
  - Timothy Tse (MDS-CL -> SoundHound AI)
